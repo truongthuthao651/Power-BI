@@ -1,1 +1,1 @@
-# Analyzing and Visualizing - Data - on Power B
+# Analyzing and Visualizing - Data - on Power BI
